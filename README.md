@@ -1,4 +1,4 @@
-### exploratory-data-analysis-on-sql
+### EXPLORATORY DATA ANALYSIS ON SQL 
 
 ### Project overview
 This project aims to provide insight to aid better decision making in order to maximize profit and reduce loss to the lowest minimum from the international breweries data recorded for a duration of three years across five west african countries. 
